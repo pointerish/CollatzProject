@@ -1,0 +1,28 @@
+body,
+main {
+  height: 100vh;
+}
+
+.info {
+  padding-left: 1rem;
+}
+
+.f-style {
+  font-weight: bold;
+}
+
+.standford {
+  font-family: 'Old Standard TT', serif;
+}
+
+#wiki {
+  font-size: 0.8rem;
+
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
